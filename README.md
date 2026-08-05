@@ -302,4 +302,3 @@ A continuación se presenta el **análisis exhaustivo y detallado de cada una de
 
 * **Análisis Técnico:**  
   Se ejecuta en la consola de Linux: `mkdir -p mipracticas/Practica0 mipracticas/Practica1 mipracticas/Practica2`. La opción `-p` (*parents*) crea de forma recursiva el directorio raíz `mipracticas` y sus subcarpetas. La salida del comando `ls -R` confirma la estructura arborescente exigida en el instructivo del laboratorio (Página 8).
-*
