@@ -1,15 +1,5 @@
 # INFORME FINAL Y SUSTENTACIÓN TÉCNICA: CONFIGURACIÓN DE ENTORNO VIRTUALIZADO CON VAGRANT, VIRTUALBOX Y GIT
 
-**Asignatura:** Ambiente de Desarrollo / Servicios Telemáticos  
-**Profesor:** Prof. Oscar Mondragón  
-**Estudiante:** Eduard Criollo Yule  
-**Correo Institucional:** `eduard.criollo@uao.edu.co`  
-**Semestre:** 9no Semestre  
-**Repositorio:** [Practica_AmbienteDesarrollo](https://github.com/CriolloYule/Practica_AmbienteDesarrollo)  
-**Estado:** ✅ **Informe Académico de Entrega y Sustentación (100% Completado)**  
-
----
-
 ## 📌 1. Introducción y Objetivos del Laboratorio
 
 ### 1.1 Introducción
